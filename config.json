@@ -1,0 +1,1 @@
+{"engine": ["Google"], "safe search": 0, "exclude": [["*/.svn", "*/.bzr"]], "dry_run": "None", "prefer": [], "defaults": 0, "exact": 0, "min_size": 25, "noninteractive": "None", "deletedup": 0, "dir": "/home/apasai", "face-only": 0, "timeout": 25, "num-threads": 50, "max-number": -4, "output": "./download_imagess", "proxy_http": "None", "numImage": 500, "proxy_socks5": "None"}
